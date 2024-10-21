@@ -14,4 +14,4 @@ Everything else (except the loadstring library) was made by me
 
 
 ## PS
-V2 is being worked on now that the source code (which has always been public) is released on github
+V2 is being worked on now that the source code (which has always been public) is released on github, much better UI and code! 😁

@@ -7,3 +7,6 @@ Cryo was based on a GUI I saw floating around when I used to exploit the game (i
 Cryo's UI was based on the GUI I saw but I can't find now so UI is credited to them but i did manage to recreate it to the best of my abilities with some changes to make it somewhat unique(?) and the executor UI which was made by me as it was something I thought would be cool and useful
 
 Everything else (except the loadstring library) was made by me
+
+## Note
+### I'm currently in the process of actually putting all the scripts and files into github, this will take time!

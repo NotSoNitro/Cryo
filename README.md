@@ -10,3 +10,8 @@ Everything else (except the loadstring library) was made by me
 
 ## Note
 ### I'm currently in the process of actually putting all the scripts and files into github, this will take time!
+
+
+
+## PS
+V2 is being worked on now that the source code (which has always been public) is released on github

@@ -1,0 +1,1 @@
+script.Parent.Text = "PlaceId: " .. game.PlaceId

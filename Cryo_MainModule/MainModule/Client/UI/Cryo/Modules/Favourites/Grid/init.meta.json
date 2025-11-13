@@ -1,0 +1,45 @@
+{
+  "className": "UIGridLayout",
+  "properties": {
+    "CellPadding": {
+      "UDim2": [
+        [
+          0.0,
+          7
+        ],
+        [
+          0.0,
+          15
+        ]
+      ]
+    },
+    "CellSize": {
+      "UDim2": [
+        [
+          0.0,
+          78
+        ],
+        [
+          0.0,
+          78
+        ]
+      ]
+    },
+    "FillDirectionMaxCells": 0,
+    "StartCorner": {
+      "Enum": 0
+    },
+    "FillDirection": {
+      "Enum": 0
+    },
+    "HorizontalAlignment": {
+      "Enum": 1
+    },
+    "SortOrder": {
+      "Enum": 2
+    },
+    "VerticalAlignment": {
+      "Enum": 1
+    }
+  }
+}

@@ -1,0 +1,135 @@
+{
+  "className": "TextBox",
+  "properties": {
+    "ClearTextOnFocus": true,
+    "FontFace": {
+      "Family": "rbxasset://fonts/families/SourceSansPro.json",
+      "Weight": "700",
+      "Style": "Normal"
+    },
+    "LineHeight": 1.0,
+    "MaxVisibleGraphemes": -1,
+    "MultiLine": false,
+    "PlaceholderColor3": {
+      "Color3": [
+        0.65882355,
+        0.65882355,
+        0.65882355
+      ]
+    },
+    "PlaceholderText": "Music ID",
+    "RichText": false,
+    "ShowNativeInput": true,
+    "TextColor3": {
+      "Color3": [
+        0.784313798,
+        0.784313798,
+        0.784313798
+      ]
+    },
+    "TextDirection": {
+      "Enum": 0
+    },
+    "TextEditable": true,
+    "TextScaled": true,
+    "TextSize": 14.0,
+    "TextStrokeColor3": {
+      "Color3": [
+        0.0,
+        0.0,
+        0.0
+      ]
+    },
+    "TextStrokeTransparency": 1.0,
+    "TextTransparency": 0.0,
+    "TextTruncate": {
+      "Enum": 0
+    },
+    "TextWrapped": true,
+    "TextXAlignment": {
+      "Enum": 0
+    },
+    "TextYAlignment": {
+      "Enum": 1
+    },
+    "Active": true,
+    "AnchorPoint": {
+      "Vector2": [
+        0.5,
+        0.5
+      ]
+    },
+    "AutomaticSize": {
+      "Enum": 0
+    },
+    "BackgroundColor3": {
+      "Color3": [
+        1.0,
+        1.0,
+        1.0
+      ]
+    },
+    "BackgroundTransparency": 1.0,
+    "BorderColor3": {
+      "Color3": [
+        0.105882362,
+        0.164705887,
+        0.207843155
+      ]
+    },
+    "BorderMode": {
+      "Enum": 0
+    },
+    "BorderSizePixel": 0,
+    "ClipsDescendants": false,
+    "Draggable": false,
+    "Interactable": true,
+    "LayoutOrder": 0,
+    "Position": {
+      "UDim2": [
+        [
+          0.496914327,
+          0
+        ],
+        [
+          0.5,
+          0
+        ]
+      ]
+    },
+    "Rotation": 0.0,
+    "Selectable": true,
+    "SelectionOrder": 0,
+    "Size": {
+      "UDim2": [
+        [
+          0.925999999,
+          0
+        ],
+        [
+          0.629999995,
+          0
+        ]
+      ]
+    },
+    "SizeConstraint": {
+      "Enum": 0
+    },
+    "Visible": true,
+    "ZIndex": 1,
+    "AutoLocalize": true,
+    "SelectionBehaviorDown": {
+      "Enum": 0
+    },
+    "SelectionBehaviorLeft": {
+      "Enum": 0
+    },
+    "SelectionBehaviorRight": {
+      "Enum": 0
+    },
+    "SelectionBehaviorUp": {
+      "Enum": 0
+    },
+    "SelectionGroup": false
+  }
+}

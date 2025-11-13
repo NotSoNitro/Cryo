@@ -1,0 +1,34 @@
+{
+  "className": "UIStroke",
+  "properties": {
+    "ApplyStrokeMode": {
+      "Enum": 0
+    },
+    "BorderOffset": {
+      "UDim": [
+        0.0,
+        0
+      ]
+    },
+    "BorderStrokePosition": {
+      "Enum": 0
+    },
+    "Color": {
+      "Color3": [
+        0.690196097,
+        0.690196097,
+        0.690196097
+      ]
+    },
+    "Enabled": true,
+    "LineJoinMode": {
+      "Enum": 0
+    },
+    "StrokeSizingMode": {
+      "Enum": 0
+    },
+    "Thickness": 1.35000002,
+    "Transparency": 0.560000002,
+    "ZIndex": 1
+  }
+}

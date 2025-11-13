@@ -1,0 +1,1 @@
+script.Parent.Text = "Players: " .. #game:GetService("Players"):GetPlayers() .. "/" .. game:GetService("Players").MaxPlayers

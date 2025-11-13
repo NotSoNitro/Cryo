@@ -1,0 +1,124 @@
+{
+  "className": "TextLabel",
+  "properties": {
+    "FontFace": {
+      "Family": "rbxasset://fonts/families/SourceSansPro.json",
+      "Weight": "700",
+      "Style": "Normal"
+    },
+    "LineHeight": 1.0,
+    "MaxVisibleGraphemes": -1,
+    "RichText": false,
+    "Text": "Version: Alpha",
+    "TextColor3": {
+      "Color3": [
+        0.850980461,
+        0.850980461,
+        0.850980461
+      ]
+    },
+    "TextDirection": {
+      "Enum": 0
+    },
+    "TextScaled": true,
+    "TextSize": 14.0,
+    "TextStrokeColor3": {
+      "Color3": [
+        0.0,
+        0.0,
+        0.0
+      ]
+    },
+    "TextStrokeTransparency": 1.0,
+    "TextTransparency": 0.0,
+    "TextTruncate": {
+      "Enum": 0
+    },
+    "TextWrapped": true,
+    "TextXAlignment": {
+      "Enum": 0
+    },
+    "TextYAlignment": {
+      "Enum": 0
+    },
+    "Active": false,
+    "AnchorPoint": {
+      "Vector2": [
+        0.5,
+        0.5
+      ]
+    },
+    "AutomaticSize": {
+      "Enum": 0
+    },
+    "BackgroundColor3": {
+      "Color3": [
+        1.0,
+        1.0,
+        1.0
+      ]
+    },
+    "BackgroundTransparency": 1.0,
+    "BorderColor3": {
+      "Color3": [
+        0.105882362,
+        0.164705887,
+        0.207843155
+      ]
+    },
+    "BorderMode": {
+      "Enum": 0
+    },
+    "BorderSizePixel": 0,
+    "ClipsDescendants": false,
+    "Draggable": false,
+    "Interactable": true,
+    "LayoutOrder": 0,
+    "Position": {
+      "UDim2": [
+        [
+          0.49999997,
+          0
+        ],
+        [
+          0.560357451,
+          0
+        ]
+      ]
+    },
+    "Rotation": 0.0,
+    "Selectable": false,
+    "SelectionOrder": 0,
+    "Size": {
+      "UDim2": [
+        [
+          0.924999952,
+          0
+        ],
+        [
+          0.0460000001,
+          0
+        ]
+      ]
+    },
+    "SizeConstraint": {
+      "Enum": 0
+    },
+    "Visible": true,
+    "ZIndex": 4,
+    "AutoLocalize": true,
+    "SelectionBehaviorDown": {
+      "Enum": 0
+    },
+    "SelectionBehaviorLeft": {
+      "Enum": 0
+    },
+    "SelectionBehaviorRight": {
+      "Enum": 0
+    },
+    "SelectionBehaviorUp": {
+      "Enum": 0
+    },
+    "SelectionGroup": false
+  }
+}

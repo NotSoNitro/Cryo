@@ -1,0 +1,1 @@
+script.Parent.Text = "Game Name: " .. game.Name

@@ -1,0 +1,129 @@
+{
+  "className": "TextButton",
+  "properties": {
+    "FontFace": {
+      "Family": "rbxasset://fonts/families/SourceSansPro.json",
+      "Weight": "400",
+      "Style": "Normal"
+    },
+    "LineHeight": 1.0,
+    "MaxVisibleGraphemes": -1,
+    "RichText": false,
+    "TextColor3": {
+      "Color3": [
+        0.105882362,
+        0.164705887,
+        0.207843155
+      ]
+    },
+    "TextDirection": {
+      "Enum": 0
+    },
+    "TextScaled": true,
+    "TextSize": 8.0,
+    "TextStrokeColor3": {
+      "Color3": [
+        0.0,
+        0.0,
+        0.0
+      ]
+    },
+    "TextStrokeTransparency": 1.0,
+    "TextTransparency": 0.0,
+    "TextTruncate": {
+      "Enum": 0
+    },
+    "TextWrapped": true,
+    "TextXAlignment": {
+      "Enum": 2
+    },
+    "TextYAlignment": {
+      "Enum": 1
+    },
+    "AutoButtonColor": true,
+    "Modal": false,
+    "Selected": false,
+    "Style": {
+      "Enum": 0
+    },
+    "Active": false,
+    "AnchorPoint": {
+      "Vector2": [
+        0.5,
+        0.5
+      ]
+    },
+    "AutomaticSize": {
+      "Enum": 0
+    },
+    "BackgroundColor3": {
+      "Color3": [
+        0.250980407,
+        0.250980407,
+        0.250980407
+      ]
+    },
+    "BackgroundTransparency": 1.0,
+    "BorderColor3": {
+      "Color3": [
+        0.105882362,
+        0.164705887,
+        0.207843155
+      ]
+    },
+    "BorderMode": {
+      "Enum": 0
+    },
+    "BorderSizePixel": 0,
+    "ClipsDescendants": true,
+    "Draggable": false,
+    "Interactable": true,
+    "LayoutOrder": 0,
+    "Position": {
+      "UDim2": [
+        [
+          0.504999995,
+          0
+        ],
+        [
+          0.5,
+          0
+        ]
+      ]
+    },
+    "Rotation": 0.0,
+    "Selectable": true,
+    "SelectionOrder": 0,
+    "Size": {
+      "UDim2": [
+        [
+          1.03999996,
+          0
+        ],
+        [
+          1.10000002,
+          0
+        ]
+      ]
+    },
+    "SizeConstraint": {
+      "Enum": 0
+    },
+    "Visible": true,
+    "ZIndex": 20,
+    "AutoLocalize": true,
+    "SelectionBehaviorDown": {
+      "Enum": 0
+    },
+    "SelectionBehaviorLeft": {
+      "Enum": 0
+    },
+    "SelectionBehaviorRight": {
+      "Enum": 0
+    },
+    "SelectionBehaviorUp": {
+      "Enum": 0
+    },
+    "SelectionGroup": false
+  }
+}

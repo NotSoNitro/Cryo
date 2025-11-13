@@ -1,0 +1,10 @@
+{
+  "className": "Script",
+  "properties": {
+    "Disabled": false,
+    "RunContext": {
+      "Enum": 0
+    },
+    "ScriptGuid": "{A388AA68-B0BB-4BB4-85B0-59D6B43630A6}"
+  }
+}

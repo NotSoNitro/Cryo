@@ -1,0 +1,10 @@
+{
+  "className": "LocalScript",
+  "properties": {
+    "Disabled": false,
+    "RunContext": {
+      "Enum": 0
+    },
+    "ScriptGuid": "{5B5BDD6D-0C8E-4569-BDD5-F25622FADFB8}"
+  }
+}

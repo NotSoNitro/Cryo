@@ -1,0 +1,32 @@
+{
+  "className": "ScreenGui",
+  "properties": {
+    "ClipToDeviceSafeArea": true,
+    "DisplayOrder": 0,
+    "SafeAreaCompatibility": {
+      "Enum": 1
+    },
+    "ScreenInsets": {
+      "Enum": 1
+    },
+    "Enabled": true,
+    "ResetOnSpawn": false,
+    "ZIndexBehavior": {
+      "Enum": 0
+    },
+    "AutoLocalize": true,
+    "SelectionBehaviorDown": {
+      "Enum": 0
+    },
+    "SelectionBehaviorLeft": {
+      "Enum": 0
+    },
+    "SelectionBehaviorRight": {
+      "Enum": 0
+    },
+    "SelectionBehaviorUp": {
+      "Enum": 0
+    },
+    "SelectionGroup": false
+  }
+}

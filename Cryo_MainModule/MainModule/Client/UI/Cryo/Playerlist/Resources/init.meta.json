@@ -1,0 +1,24 @@
+{
+  "className": "SelectionBox",
+  "properties": {
+    "LineThickness": 0.150000006,
+    "StudioSelectionBox": false,
+    "SurfaceColor3": {
+      "Color3": [
+        0.0509803966,
+        0.411764741,
+        0.674509823
+      ]
+    },
+    "SurfaceTransparency": 1.0,
+    "Color3": {
+      "Color3": [
+        0.0509803966,
+        0.411764741,
+        0.674509823
+      ]
+    },
+    "Transparency": 0.0,
+    "Visible": true
+  }
+}

@@ -1,0 +1,133 @@
+{
+  "className": "ScrollingFrame",
+  "properties": {
+    "AutomaticCanvasSize": {
+      "Enum": 2
+    },
+    "BottomImage": "rbxasset://textures/ui/Scroll/scroll-bottom.png",
+    "CanvasPosition": {
+      "Vector2": [
+        0.0,
+        0.0
+      ]
+    },
+    "CanvasSize": {
+      "UDim2": [
+        [
+          0.0,
+          0
+        ],
+        [
+          0.0,
+          0
+        ]
+      ]
+    },
+    "ElasticBehavior": {
+      "Enum": 0
+    },
+    "HorizontalScrollBarInset": {
+      "Enum": 0
+    },
+    "MidImage": "rbxasset://textures/ui/Scroll/scroll-middle.png",
+    "ScrollBarImageColor3": {
+      "Color3": [
+        0.568627477,
+        0.568627477,
+        0.568627477
+      ]
+    },
+    "ScrollBarImageTransparency": 0.0,
+    "ScrollBarThickness": 6,
+    "ScrollingDirection": {
+      "Enum": 4
+    },
+    "ScrollingEnabled": true,
+    "TopImage": "rbxasset://textures/ui/Scroll/scroll-top.png",
+    "VerticalScrollBarInset": {
+      "Enum": 0
+    },
+    "VerticalScrollBarPosition": {
+      "Enum": 0
+    },
+    "Active": true,
+    "AnchorPoint": {
+      "Vector2": [
+        0.5,
+        0.5
+      ]
+    },
+    "AutomaticSize": {
+      "Enum": 0
+    },
+    "BackgroundColor3": {
+      "Color3": [
+        1.0,
+        1.0,
+        1.0
+      ]
+    },
+    "BackgroundTransparency": 1.0,
+    "BorderColor3": {
+      "Color3": [
+        0.105882362,
+        0.164705887,
+        0.207843155
+      ]
+    },
+    "BorderMode": {
+      "Enum": 0
+    },
+    "BorderSizePixel": 0,
+    "ClipsDescendants": true,
+    "Draggable": false,
+    "Interactable": true,
+    "LayoutOrder": 0,
+    "Position": {
+      "UDim2": [
+        [
+          0.5,
+          0
+        ],
+        [
+          0.593999982,
+          0
+        ]
+      ]
+    },
+    "Rotation": 0.0,
+    "Selectable": true,
+    "SelectionOrder": 0,
+    "Size": {
+      "UDim2": [
+        [
+          0.949173808,
+          0
+        ],
+        [
+          0.709052742,
+          0
+        ]
+      ]
+    },
+    "SizeConstraint": {
+      "Enum": 0
+    },
+    "Visible": true,
+    "ZIndex": 1,
+    "AutoLocalize": true,
+    "SelectionBehaviorDown": {
+      "Enum": 0
+    },
+    "SelectionBehaviorLeft": {
+      "Enum": 0
+    },
+    "SelectionBehaviorRight": {
+      "Enum": 0
+    },
+    "SelectionBehaviorUp": {
+      "Enum": 0
+    },
+    "SelectionGroup": true
+  }
+}

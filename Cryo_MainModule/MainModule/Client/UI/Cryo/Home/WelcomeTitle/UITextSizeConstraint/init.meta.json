@@ -1,0 +1,7 @@
+{
+  "className": "UITextSizeConstraint",
+  "properties": {
+    "MaxTextSize": 30,
+    "MinTextSize": 1
+  }
+}
